@@ -8,4 +8,8 @@
 
 4.`pkg install python`
 
-5`python Day.py`
+5.`pkg install git`
+
+6.`git clone`
+
+7.`python Day.py`
