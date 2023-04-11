@@ -10,6 +10,6 @@
 
 5.`pkg install git`
 
-6.`git clone`
+6.`git clone https://github.com/Eriopd/calendar/`
 
 7.`python Day.py`
